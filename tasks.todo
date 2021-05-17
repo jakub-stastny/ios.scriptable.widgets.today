@@ -1,0 +1,7 @@
+- Main: get the coming time frame and show minutes remaining.
+- Evening: consider switching to tomorrow view(?) Or just show an image of a candle light.
+- Research calendar apps with better support for URL schemes.
+- Unit tests.
+- Extract out the timeframes library.
+- Consider making time frame colours configurable (type: 'currentEvent', main already has got its red colour).
+- Make timezones configurable (pass {PRG: "Europe/Prague"} as `args.widgetParameter`).
